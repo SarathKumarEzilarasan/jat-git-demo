@@ -1,0 +1,5 @@
+remote repository -> github [having code]
+local repository -> laptop  [having code]
+
+
+stage -> add -> commit -> push
